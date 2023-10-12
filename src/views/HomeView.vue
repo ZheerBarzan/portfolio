@@ -1,6 +1,6 @@
 <script setup>
 import Navbar from '../components/Navbar.vue';
-import HomeView from "../views/profileView.vue"
+import profile from "../views/profileView.vue"
 import About from '../views/AboutView.vue'
 import Experience from "../views/ExperienceView.vue"
 import Project from "../views/ProjectView.vue"
@@ -11,7 +11,7 @@ import Footer from "../components/Footer.vue"
 <template>
   <main>
     <Navbar/>
-    <HomeView />
+    <profile />
     <About />
     <Experience />
     <Project />
@@ -79,7 +79,7 @@ import Footer from "../components/Footer.vue"
   }
   #profile {
     height: 50vh;
-    margin-bottom: 0;
+    margin-bottom:6rem ;
   }
   article {
     font-size: 1rem;

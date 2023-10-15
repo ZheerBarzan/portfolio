@@ -6,7 +6,7 @@
         <div class="about-containers">
         <div class="details-container color-container">
           <div class="article-container">
-            <img src="assets/about-pic.png" alt="" class="project-img">
+            <img src="../assets/img/about-pic.png" alt="" class="project-img">
           </div>
           <h2 class="experience-sub-title project-title">Project One</h2>
           <div class="btn-container ">
@@ -16,7 +16,7 @@
         </div>
         <div class="details-container color-container">
           <div class="article-container">
-            <img src="assets/about-pic.png" alt="" class="project-img">
+            <img src="../assets/img/about-pic.png" alt="" class="project-img">
           </div>
           <h2 class="experience-sub-title project-title">Project One</h2>
           <div class="btn-container ">
@@ -26,7 +26,7 @@
         </div>
         <div class="details-container color-container">
           <div class="article-container">
-            <img src="assets/about-pic.png" alt="" class="project-img">
+            <img src="../assets/img/about-pic.png" alt="" class="project-img">
           </div>
           <h2 class="experience-sub-title project-title">Project One</h2>
           <div class="btn-container ">
@@ -36,7 +36,7 @@
         </div>
       </div>
       </div>
-      <img src="assets/arrow.png" alt="" class="icon arrow" onclick="location.href='#contact'">
+      <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#contact'">
 
     </section>
 

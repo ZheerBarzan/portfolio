@@ -11,42 +11,42 @@
                     </h2>
                     <div class="article-container">
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
@@ -62,42 +62,42 @@
                     </h2>
                     <div class="article-container">
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
                             </div>
                         </article>
                         <article>
-                            <img src="assets/checkmark.png" alt="" class="icon">
+                            <img src="../assets/img/checkmark.png" alt="" class="icon">
                             <div>
                                 <h3>HTML</h3>
                                 <p>Experienced</p>
@@ -109,7 +109,7 @@
             </div>
 
         </div>
-        <img src="assets/arrow.png" alt="" class="icon arrow" onclick="location.href='#projects'">
+        <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#projects'">
 
     </section>
 

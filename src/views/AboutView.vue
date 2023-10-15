@@ -4,17 +4,17 @@
       <h1 class="title">About Me</h1>
       <div class="section-container">
         <div class="section__pic-container">
-          <img src="../assets/logo.svg" alt="" class="about-pic" />
+          <img src="../assets/img/x.png" alt="" class="about-pic" />
         </div>
         <div class="about-details-container">
           <div class="about-containers">
             <div class="details-container">
-              <img src="assets/experience.png" alt="" class="icon" />
+              <img src="../assets/img/experience.png" alt="" class="icon" />
               <h3>Experience</h3>
               <p>2+ years <br />Front-End Development</p>
             </div>
             <div class="details-container">
-              <img src="assets/logo.svg" alt="" class="icon" />
+              <img src="../assets/img/education.png" alt="" class="icon" />
               <h3>Education</h3>
               <p>B.Sc. Degree <br />Computer Engineering</p>
             </div>
@@ -30,7 +30,7 @@
           </div>
         </div>
       </div>
-      <img src="assets/arrow.png" alt="" class="icon arrow" onclick="location.href='#experience'">
+      <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#experience'">
     </section>
 
 </template>

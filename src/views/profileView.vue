@@ -21,12 +21,12 @@
         </div>
         <div id="socials-container">
           <img
-            src="assets/linkedin.png"
+            src="../assets/img/linkedin.png"
             class="icon"
             onclick="location.href='' "
           />
           <img
-            src="assets/github.png"
+            src="../assets/img/github.png"
             class="icon"
             onclick="location.href='' "
           />

@@ -241,6 +241,22 @@ section {
 .btn-color-2:hover {
   cursor: pointer;
 }
+.sp-btn{
+  font-family:"Poppins", sans-serif ;
+  color: aliceblue;
+  border-color: white;
+  box-sizing: border-box;
+   background-color: rgb(53, 53, 53);
+    height: 30px;
+     width: 100px;
+      margin: 5px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0;
+}
 
 .btn-color-1,
 .btn-color-2:hover {

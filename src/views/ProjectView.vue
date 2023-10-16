@@ -1,39 +1,44 @@
+<script setup>
+import {ref} from "vue"
+import project from "../data/projects.json"
+
+
+
+
+const projects = ref(project)
+
+const openLinkToGithub = (link) => {
+  const githubLink = link;
+
+  window.open(githubLink, '_blank')
+
+}
+
+
+</script>
+
+
 <template>
  <section id="projects">
       <p class="section__text__p1">Browse my recent</p>
       <h1 class="title">Projects</h1>
       <div class="experience-details-container">
         <div class="about-containers">
-        <div class="details-container color-container">
+        <div v-for="project in projects" :key="project.id" class="details-container color-container">
           <div class="article-container">
-            <img src="../assets/img/about-pic.png" alt="" class="project-img">
+            <img :src="project.img" alt="" class="project-img">
           </div>
-          <h2 class="experience-sub-title project-title">Project One</h2>
+          <h2 class="experience-sub-title project-title">{{ project.name }}</h2>
+          <p>{{ project.desc }}</p>
+          <div class="tech-container">
+          <button v-for="technology in project.tech" :key="technology.id" class="btn sp-btn"  >{{technology.name}}</button>
+          </div>
           <div class="btn-container ">
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Live Demo</button>
+            <button class="btn btn-color-2 project-btn" @click="openLinkToGithub(project.github)">Github</button>
           </div>
         </div>
-        <div class="details-container color-container">
-          <div class="article-container">
-            <img src="../assets/img/about-pic.png" alt="" class="project-img">
-          </div>
-          <h2 class="experience-sub-title project-title">Project One</h2>
-          <div class="btn-container ">
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Live Demo</button>
-          </div>
-        </div>
-        <div class="details-container color-container">
-          <div class="article-container">
-            <img src="../assets/img/about-pic.png" alt="" class="project-img">
-          </div>
-          <h2 class="experience-sub-title project-title">Project One</h2>
-          <div class="btn-container ">
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Github</button>
-            <button class="btn btn-color-2 project-btn" onclick="location.href=''">Live Demo</button>
-          </div>
-        </div>
+       
+        
       </div>
       </div>
       <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#contact'">

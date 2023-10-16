@@ -1,1 +1,36 @@
-
+[
+  {
+    "id": 1,
+    "img": "../assets/img/about-pic.png",
+    "name": "project kasparov",
+    "desc": "A chess ",
+    "github": "https://github.com/ZheerBarzan/project_kasparov.git",
+    "tech": [
+      {
+        "id": 1,
+        "name": "Flutter"
+      },
+      {
+        "id": 2,
+        "name": "Dart"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "../assets/img/about-pic.png",
+    "name": "project jordan",
+    "desc": "A NBA news APP",
+    "github": "https://github.com/ZheerBarzan/project_jordan.git",
+    "tech": [
+      {
+        "id": 1,
+        "name": "Flutter"
+      },
+      {
+        "id": 2,
+        "name": "Dart"
+      }
+    ]
+  }
+]

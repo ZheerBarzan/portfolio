@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "img": "",
-    "tech": "HTML",
+    "img": "../assets/img/github.png",
+    "tech": "Firebase",
     "ex": 100
   },
   {
     "id": 2,
-    "img": "",
-    "tech": "CSS",
+    "img": "../assets/logo.svg",
+    "tech": "App Write",
     "ex": 75
   }
 ]

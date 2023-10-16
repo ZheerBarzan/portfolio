@@ -2,7 +2,7 @@
 
 <section id="profile">
       <div class="section__pic-container">
-        <img src="assets/y.png" alt="" />
+        <img src="../assets/img/y.png" alt="" />
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>

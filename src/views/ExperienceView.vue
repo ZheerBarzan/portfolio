@@ -1,11 +1,12 @@
 <script setup>
 import {ref} from "vue"
-import data from "../data/front-end.json"
+import front from "../data/front-end.json"
+import back from "../data/back-end.json"
 
 
 
-const datas = ref(data)
-
+const frontEnd = ref(front)
+const backEnd = ref(back)
 
 
 </script>
@@ -22,8 +23,8 @@ const datas = ref(data)
                         Front-End Development
                     </h2>
                     <div class="article-container">
-                        <article v-for="data in datas" :key="data.id">
-                            <img :src="data.img" alt="" class="icon">
+                        <article v-for="data in frontEnd" :key="data.id">
+                            <img :src="data.img" style="height: 100px; width: 100px;" alt="" class="icon">
                             <div>
                                 <h3>{{data.tech}}</h3>
                                 <p>{{data.ex}}</p>
@@ -35,49 +36,14 @@ const datas = ref(data)
                 <!-- back-end section -->
                 <div class="details-container">
                     <h2 class="experience-sub-title">
-                        Front-End Development
+                        Back-End Development
                     </h2>
                     <div class="article-container">
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
+                        <article v-for="datax in backEnd" :key="datax.id">
+                            <img :src="datax.img" style="height: 100px; width: 100px;" alt="" class="icon">
                             <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
+                                <h3>{{datax.tech}}</h3>
+                                <p>{{datax.ex}}</p>
                             </div>
                         </article>
                         

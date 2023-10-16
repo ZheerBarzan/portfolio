@@ -1,3 +1,15 @@
+<script setup>
+import {ref} from "vue"
+import data from "../data/front-end.json"
+
+
+
+const datas = ref(data)
+
+
+
+</script>
+
 <template>
 <section id="experience">
         <p class="section__text__p1">Explore My</p>
@@ -10,49 +22,14 @@
                         Front-End Development
                     </h2>
                     <div class="article-container">
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
+                        <article v-for="data in datas" :key="data.id">
+                            <img :src="data.img" alt="" class="icon">
                             <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
+                                <h3>{{data.tech}}</h3>
+                                <p>{{data.ex}}</p>
                             </div>
                         </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-                        <article>
-                            <img src="../assets/img/checkmark.png" alt="" class="icon">
-                            <div>
-                                <h3>HTML</h3>
-                                <p>Experienced</p>
-                            </div>
-                        </article>
-
+                     
                     </div>
                 </div>
                 <!-- back-end section -->

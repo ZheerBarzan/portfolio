@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "img": "/src/assets/img/checkmark.png",
+    "img": "/src/assets/logos/html.png",
     "tech": "HTML",
     "ex": 100
   },
   {
     "id": 2,
-    "img": "/src/assets/img/checkmark.png",
+    "img": "/src/assets/logos/css.png",
     "tech": "CSS",
     "ex": 75
   }

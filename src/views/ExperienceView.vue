@@ -1,12 +1,10 @@
 <script setup>
 import {ref} from "vue"
 import front from "../data/front-end.json"
-import back from "../data/back-end.json"
 
 
 
 const frontEnd = ref(front)
-const backEnd = ref(back)
 
 
 </script>
@@ -24,7 +22,7 @@ const backEnd = ref(back)
                     </h2>
                     <div class="article-container">
                         <article v-for="data in frontEnd" :key="data.id">
-                            <img :src="data.img" style="height: 50px; width: 50px;" alt="" class="icon">
+                            <img :src="data.img" style="height: 90%; width: 50%; ;" alt="" class="icon">
                             <div>
                                 <h3>{{data.tech}}</h3>
                                 <p>{{data.ex}}</p>

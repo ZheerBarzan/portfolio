@@ -13,14 +13,20 @@
   },
   {
     "id": 3,
-    "img": "/src/assets/logos/firebase.png",
-    "tech": "Firebase",
+    "img": "/src/assets/logos/js.png",
+    "tech": "JS",
     "ex": 100
   },
   {
     "id": 4,
-    "img": "/src/assets/logos/appwrite.png",
-    "tech": "App Write",
+    "img": "/src/assets/logo.svg",
+    "tech": "VUE",
+    "ex": 75
+  },
+  {
+    "id": 5,
+    "img": "/src/assets/logos/flutter.svg",
+    "tech": "Flutter",
     "ex": 75
   }
 ]

@@ -10,5 +10,17 @@
     "img": "/src/assets/logos/css.png",
     "tech": "CSS",
     "ex": 75
+  },
+  {
+    "id": 3,
+    "img": "/src/assets/logos/firebase.png",
+    "tech": "Firebase",
+    "ex": 100
+  },
+  {
+    "id": 4,
+    "img": "/src/assets/logos/appwrite.png",
+    "tech": "App Write",
+    "ex": 75
   }
 ]

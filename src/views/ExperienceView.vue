@@ -20,11 +20,11 @@ const backEnd = ref(back)
                 <!--front-end section-->
                 <div class="details-container">
                     <h2 class="experience-sub-title">
-                        Front-End Development
+                        Technologies
                     </h2>
                     <div class="article-container">
                         <article v-for="data in frontEnd" :key="data.id">
-                            <img :src="data.img" style="height: 100px; width: 100px;" alt="" class="icon">
+                            <img :src="data.img" style="height: 50px; width: 50px;" alt="" class="icon">
                             <div>
                                 <h3>{{data.tech}}</h3>
                                 <p>{{data.ex}}</p>
@@ -34,13 +34,13 @@ const backEnd = ref(back)
                     </div>
                 </div>
                 <!-- back-end section -->
-                <div class="details-container">
+                <!-- <div class="details-container">
                     <h2 class="experience-sub-title">
                         Back-End Development
                     </h2>
                     <div class="article-container">
                         <article v-for="datax in backEnd" :key="datax.id">
-                            <img :src="datax.img" style="height: 100px; width: 100px;" alt="" class="icon">
+                            <img :src="datax.img"  alt="" class="icon">
                             <div>
                                 <h3>{{datax.tech}}</h3>
                                 <p>{{datax.ex}}</p>
@@ -48,7 +48,7 @@ const backEnd = ref(back)
                         </article>
                         
                     </div>
-                </div>
+                </div> -->
             </div>
 
         </div>

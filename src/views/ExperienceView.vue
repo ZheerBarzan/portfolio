@@ -24,29 +24,14 @@ const frontEnd = ref(front)
                         <article v-for="data in frontEnd" :key="data.id">
                             <img :src="data.img" style="height: 90%; width: 50%; ;" alt="" class="icon">
                             <div>
-                                <h3>{{data.tech}}</h3>
+                                <h3 class="topic">{{data.tech}}</h3>
                                 <p>{{data.ex}}</p>
                             </div>
                         </article>
                      
                     </div>
                 </div>
-                <!-- back-end section -->
-                <!-- <div class="details-container">
-                    <h2 class="experience-sub-title">
-                        Back-End Development
-                    </h2>
-                    <div class="article-container">
-                        <article v-for="datax in backEnd" :key="datax.id">
-                            <img :src="datax.img"  alt="" class="icon">
-                            <div>
-                                <h3>{{datax.tech}}</h3>
-                                <p>{{datax.ex}}</p>
-                            </div>
-                        </article>
-                        
-                    </div>
-                </div> -->
+             
             </div>
 
         </div>

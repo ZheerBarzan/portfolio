@@ -3,91 +3,91 @@
     "id": 1,
     "img": "/src/assets/logos/html.png",
     "tech": "HTML",
-    "ex": 100
+    "ex": "Experienced"
   },
   {
     "id": 2,
     "img": "/src/assets/logos/css.png",
     "tech": "CSS",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 3,
     "img": "/src/assets/logos/js.png",
     "tech": "JS",
-    "ex": 100
+    "ex": "Intermidiate"
   },
   {
     "id": 4,
     "img": "/src/assets/logo.svg",
     "tech": "VUE",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 5,
     "img": "/src/assets/logos/figma.png",
     "tech": "Figma",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 6,
     "img": "/src/assets/logos/flutter.svg",
     "tech": "Flutter",
-    "ex": 75
+    "ex": "Experienced"
   },
   {
     "id": 7,
     "img": "/src/assets/logos/dart.png",
     "tech": "Dart",
-    "ex": 75
+    "ex": "Experienced"
   },
   {
     "id": 8,
     "img": "/src/assets/logos/firebase.png",
     "tech": "Firebase",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 9,
     "img": "/src/assets/logos/appwrite.png",
     "tech": "AppWrite",
-    "ex": 75
+    "ex": "Beginner"
   },
   {
     "id": 10,
     "img": "/src/assets/logos/mysql.png",
     "tech": "SQL",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 11,
     "img": "/src/assets/logos/py.png",
     "tech": "Python",
-    "ex": 75
+    "ex": "Intermidiate"
   },
 
   {
     "id": 12,
     "img": "/src/assets/logos/csharp.png",
     "tech": "C#",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 13,
     "img": "/src/assets/logos/C++.png",
     "tech": "C++",
-    "ex": 75
+    "ex": "Intermidiate"
   },
   {
     "id": 14,
     "img": "/src/assets/logos/unreal engine.png",
-    "tech": "Unreal Engine",
-    "ex": 75
+    "tech": "UE5",
+    "ex": "Intermidiate"
   },
   {
     "id": 15,
     "img": "/src/assets/logos/blender.png",
     "tech": "Blender",
-    "ex": 75
+    "ex": "Beginner"
   }
 ]

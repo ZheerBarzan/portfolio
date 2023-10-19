@@ -25,8 +25,69 @@
   },
   {
     "id": 5,
+    "img": "/src/assets/logos/figma.png",
+    "tech": "Figma",
+    "ex": 75
+  },
+  {
+    "id": 6,
     "img": "/src/assets/logos/flutter.svg",
     "tech": "Flutter",
+    "ex": 75
+  },
+  {
+    "id": 7,
+    "img": "/src/assets/logos/dart.png",
+    "tech": "Dart",
+    "ex": 75
+  },
+  {
+    "id": 8,
+    "img": "/src/assets/logos/firebase.png",
+    "tech": "Firebase",
+    "ex": 75
+  },
+  {
+    "id": 9,
+    "img": "/src/assets/logos/appwrite.png",
+    "tech": "AppWrite",
+    "ex": 75
+  },
+  {
+    "id": 10,
+    "img": "/src/assets/logos/mysql.png",
+    "tech": "SQL",
+    "ex": 75
+  },
+  {
+    "id": 11,
+    "img": "/src/assets/logos/py.png",
+    "tech": "Python",
+    "ex": 75
+  },
+
+  {
+    "id": 12,
+    "img": "/src/assets/logos/csharp.png",
+    "tech": "C#",
+    "ex": 75
+  },
+  {
+    "id": 13,
+    "img": "/src/assets/logos/C++.png",
+    "tech": "C++",
+    "ex": 75
+  },
+  {
+    "id": 14,
+    "img": "/src/assets/logos/unreal engine.png",
+    "tech": "Unreal Engine",
+    "ex": 75
+  },
+  {
+    "id": 15,
+    "img": "/src/assets/logos/blender.png",
+    "tech": "Blender",
     "ex": 75
   }
 ]

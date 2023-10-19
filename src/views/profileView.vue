@@ -11,7 +11,7 @@
         <div class="btn-container">
           <button
             class="btn btn-color-2"
-            onclick="window.open('assets/Zheer_Barzan_CV.pdf')"
+            onclick="window.open('assets/img/Zheer_Barzan_CV.pdf')"
           >
             Download CV
           </button>
@@ -23,7 +23,7 @@
           <img
             src="../assets/img/linkedin.png"
             class="icon"
-            onclick="location.href='' "
+            onclick="location.href='https://www.linkedin.com/in/zheer-barzan-80aba5207/' "
           />
           <img
             src="../assets/img/github.png"

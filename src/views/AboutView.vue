@@ -11,12 +11,19 @@
             <div class="details-container">
               <img src="../assets/img/experience.png" alt="" class="icon" />
               <h3>Experience</h3>
-              <p>2+ years <br />Front-End Development</p>
+              <p>4+ years <br />Front-End Development</p>
             </div>
+            
             <div class="details-container">
               <img src="../assets/img/education.png" alt="" class="icon" />
               <h3>Education</h3>
               <p>B.Sc. Degree <br />Computer Engineering</p>
+            </div>
+
+            <div class="details-container">
+              <img src="../assets/img/cup.png" alt="" class="icon" />
+              <h3>Achivement</h3>
+              <p> Graduated Top 1st student <br /> in Komar University</p>
             </div>
           </div>
           <div class="text-container"><p>

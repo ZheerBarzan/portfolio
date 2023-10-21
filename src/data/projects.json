@@ -31,6 +31,45 @@
         "id": 2,
         "name": "Dart"
       }
+      ,
+      {
+        "id": 3,
+        "name": "FireBase"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/src/assets/img/about-pic.png",
+    "name": "Minesweeper",
+    "desc": "A NBA news APP",
+    "github": "https://github.com/ZheerBarzan/project_jordan.git",
+    "tech": [
+      {
+        "id": 1,
+        "name": "Flutter"
+      },
+      {
+        "id": 2,
+        "name": "Dart"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/src/assets/img/about-pic.png",
+    "name": "Tic-Tac-Toe",
+    "desc": "Tic-Tac-Toe game",
+    "github": "https://github.com/ZheerBarzan/project_jordan.git",
+    "tech": [
+      {
+        "id": 1,
+        "name": "Flutter"
+      },
+      {
+        "id": 2,
+        "name": "Dart"
+      }
     ]
   }
 ]

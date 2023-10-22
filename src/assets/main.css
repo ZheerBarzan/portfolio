@@ -358,6 +358,8 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 .article-container {
@@ -384,6 +386,7 @@ article .icon {
 
 #projects {
   position: relative;
+  
 }
 
 .color-container {

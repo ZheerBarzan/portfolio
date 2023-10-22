@@ -251,14 +251,14 @@ section {
 .sp-btn{
   font-family:"Poppins", sans-serif ;
   color: aliceblue;
-  border-color: white;
-  box-sizing: border-box;
+  border-color: none;
+border-radius: 15px;
+  
    background-color: rgb(53, 53, 53);
-    height: 30px;
-     width: 100px;
+    height: 25px;
+     width: 75px;
       margin: 5px;
-      margin-top: 20px;
-      margin-bottom: 20px;
+
       justify-content: center;
       align-items: center;
       text-align: center;

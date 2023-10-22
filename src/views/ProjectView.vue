@@ -30,8 +30,9 @@ const openLinkToGithub = (link) => {
           </div>
           <h2 class="experience-sub-title project-title">{{ project.name }}</h2>
           <p>{{ project.desc }}</p>
+          <br>
           <div class="tech-container">
-          <button v-for="technology in project.tech" :key="technology.id" class="btn sp-btn"  >{{technology.name}}</button>
+          <button v-for="technology in project.tech" :key="technology.id" class="sp-btn"  >{{technology.name}}</button>
           </div>
           <div class="btn-container ">
             <button class="btn btn-color-2 project-btn" @click="openLinkToGithub(project.github)">Github</button>

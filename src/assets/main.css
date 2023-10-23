@@ -308,6 +308,7 @@ border-radius: 15px;
 .about-containers,
 .about-details-container {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .about-pic {
@@ -331,7 +332,7 @@ border-radius: 15px;
 }
 
 .section-container {
-  gap: 4rem;
+  gap: 1rem;
   height: 80%;
 }
 

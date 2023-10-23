@@ -25,6 +25,11 @@
               <h3>Achivement</h3>
               <p> Graduated Top 1st student <br /> in Komar University</p>
             </div>
+            <div class="details-container">
+              <img src="../assets/img/cup.png" alt="" class="icon" />
+              <h3>Achivement</h3>
+              <p> Graduated Top 1st student <br /> in Komar University</p>
+            </div>
           </div>
           <div class="text-container"><p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis

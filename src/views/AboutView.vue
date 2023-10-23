@@ -32,13 +32,17 @@
             </div>
           </div>
           <div class="text-container"><p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis
-            voluptas quasi rem molestias reprehenderit, corrupti vel? Maiores
-            autem reiciendis eligendi, quae atque necessitatibus eos quaerat
-            error! Quisquam quod magni veritatis placeat labore? Natus labore
-            laboriosam, assumenda, molestias dignissimos dolor itaque odit
-            molestiae commodi mollitia praesentium alias, possimus et dolores
-            saepe.</p>
+            I can describe myself as a very
+            motivated, reliable, responsible,
+            smart and hardworking as well
+            as communicating person.
+            I'm a good timekeeper and I'm a very
+            fast learner and I always
+            try to learn new skills in my field.
+            and I'm always ready to face the
+    challenges that are coming my
+way and solve them easily.
+</p>
           </div>
         </div>
       </div>

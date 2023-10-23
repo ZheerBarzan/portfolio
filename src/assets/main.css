@@ -295,7 +295,7 @@ border-radius: 15px;
 }
 
 .about-containers {
-  gap: 2rem;
+  gap: 1rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
@@ -308,6 +308,8 @@ border-radius: 15px;
 .about-containers,
 .about-details-container {
   display: flex;
+}
+.about-details-container{
   flex-wrap: wrap;
 }
 

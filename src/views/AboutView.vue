@@ -26,9 +26,9 @@
               <p> Graduated Top 1st student <br /> in Komar University</p>
             </div>
             <div class="details-container">
-              <img src="../assets/img/cup.png" alt="" class="icon" />
-              <h3>Achivement</h3>
-              <p> Graduated Top 1st student <br /> in Komar University</p>
+              <img src="../assets/img/education.png" alt="" class="icon" />
+              <h3>Education</h3>
+              <p> MSc. <br /> Software Engineering</p>
             </div>
           </div>
           <div class="text-container"><p>

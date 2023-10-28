@@ -46,6 +46,11 @@ const router = createRouter({
       path: '/about',
       name: 'about',
       component: About
+    },
+    {
+      path: '/experience',
+      name: 'experience',
+      component: Experience
     }
     ,{
       path: "/:catchall(.*)*",

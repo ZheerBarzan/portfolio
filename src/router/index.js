@@ -5,6 +5,7 @@ import About from '../views/AboutView.vue'
 import Experience from "../views/ExperienceView.vue"
 import Project from "../views/ProjectView.vue"
 import Contact from "../views/ContactView.vue" 
+import notFound from "../views/NotFoundView.vue"
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -45,6 +46,11 @@ const router = createRouter({
       path: '/about',
       name: 'about',
       component: About
+    }
+    ,{
+      path: "/:catchall(.*)*",
+        name: "not found",
+        component:notFound,
     }
   ]
 })

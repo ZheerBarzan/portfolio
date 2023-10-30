@@ -18,7 +18,7 @@
   },
   {
     "id": 2,
-    "img": "/src/assets/img/about-pic.png",
+    "img": "/src/assets/projects/jordan.gif",
     "name": "project jordan",
     "desc": "A NBA news APP",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",
@@ -30,8 +30,7 @@
       {
         "id": 2,
         "name": "Dart"
-      }
-      ,
+      },
       {
         "id": 3,
         "name": "FireBase"

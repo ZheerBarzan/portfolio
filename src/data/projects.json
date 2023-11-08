@@ -39,9 +39,9 @@
   },
   {
     "id": 3,
-    "img": "/src/assets/img/about-pic.png",
+    "img": "/src/assets/projects/mineswepper.gif",
     "name": "Minesweeper",
-    "desc": "A NBA news APP",
+    "desc": "a Retro mineSweeper game made in flutter",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",
     "tech": [
       {

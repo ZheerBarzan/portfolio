@@ -40,25 +40,8 @@
   {
     "id": 3,
     "img": "/src/assets/projects/mineswepper.gif",
-    "name": "Minesweeper",
-    "desc": "a Retro mineSweeper game made in flutter",
-    "github": "https://github.com/ZheerBarzan/project_jordan.git",
-    "tech": [
-      {
-        "id": 1,
-        "name": "Flutter"
-      },
-      {
-        "id": 2,
-        "name": "Dart"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "img": "/src/assets/img/about-pic.png",
-    "name": "Tic-Tac-Toe",
-    "desc": "Tic-Tac-Toe game",
+    "name": "Mine Sweeper",
+    "desc": "A Retro mine Sweeper game",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",
     "tech": [
       {
@@ -88,6 +71,24 @@
       }
     ]
   },
+  {
+    "id": 4,
+    "img": "/src/assets/img/about-pic.png",
+    "name": "Tic-Tac-Toe",
+    "desc": "Tic-Tac-Toe game",
+    "github": "https://github.com/ZheerBarzan/project_jordan.git",
+    "tech": [
+      {
+        "id": 1,
+        "name": "Flutter"
+      },
+      {
+        "id": 2,
+        "name": "Dart"
+      }
+    ]
+  },
+
   {
     "id": 4,
     "img": "/src/assets/img/about-pic.png",

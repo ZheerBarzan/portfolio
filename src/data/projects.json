@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "/src/assets/img/about-pic.png",
+    "img": "/src/assets/projects/chess.gif",
     "name": "project kasparov",
     "desc": "A chess ",
     "github": "https://github.com/ZheerBarzan/project_kasparov.git",

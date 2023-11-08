@@ -73,7 +73,7 @@
   },
   {
     "id": 4,
-    "img": "/src/assets/img/about-pic.png",
+    "img": "/src/assets/projects/weather.gif",
     "name": "Project_forecast",
     "desc": "a real time weather application",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",

@@ -70,40 +70,6 @@
         "name": "Dart"
       }
     ]
-  },
-  {
-    "id": 4,
-    "img": "/src/assets/img/about-pic.png",
-    "name": "Tic-Tac-Toe",
-    "desc": "Tic-Tac-Toe game",
-    "github": "https://github.com/ZheerBarzan/project_jordan.git",
-    "tech": [
-      {
-        "id": 1,
-        "name": "Flutter"
-      },
-      {
-        "id": 2,
-        "name": "Dart"
-      }
-    ]
-  },
-
-  {
-    "id": 4,
-    "img": "/src/assets/img/about-pic.png",
-    "name": "Project_pacman",
-    "desc": "A Retro Pac-man Game",
-    "github": "https://github.com/ZheerBarzan/project_jordan.git",
-    "tech": [
-      {
-        "id": 1,
-        "name": "Flutter"
-      },
-      {
-        "id": 2,
-        "name": "Dart"
-      }
-    ]
   }
+  
 ]

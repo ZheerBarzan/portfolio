@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "img": "../src/assets/logos/html.png",
+    "img": "../src/assets/img/html.png",
     "tech": "HTML",
     "ex": "Experienced"
   },
   {
     "id": 2,
-    "img": "../src/assets/logos/css.png",
+    "img": "../src/assets/img/css.png",
     "tech": "CSS",
     "ex": "Intermidiate"
   },
   {
     "id": 3,
-    "img": "../src/assets/logos/js.png",
+    "img": "../src/assets/img/js.png",
     "tech": "JS",
     "ex": "Intermidiate"
   },
   {
     "id": 4,
-    "img": "../src/assets/logo.svg",
+    "img": "/src/assets/logo.svg",
     "tech": "VUE",
     "ex": "Intermidiate"
   },
   {
     "id": 5,
-    "img": "../src/assets/logos/figma.png",
+    "img": "../src/assets/img/figma.png",
     "tech": "Figma",
     "ex": "Intermidiate"
   },
   {
     "id": 6,
-    "img": "../src/assets/logos/flutter.svg",
+    "img": "../src/assets/img/flutter.svg",
     "tech": "Flutter",
     "ex": "Experienced"
   },
   {
     "id": 7,
-    "img": "../src/assets/logos/dart.png",
+    "img": "../src/assets/img/dart.png",
     "tech": "Dart",
     "ex": "Experienced"
   },
   {
     "id": 8,
-    "img": "../src/assets/logos/firebase.png",
+    "img": "../src/assets/img/firebase.png",
     "tech": "Firebase",
     "ex": "Intermidiate"
   },
   {
     "id": 9,
-    "img": "../src/assets/logos/appwrite.png",
+    "img": "../src/assets/img/appwrite.png",
     "tech": "AppWrite",
     "ex": "Beginner"
   },
   {
     "id": 10,
-    "img": "../src/assets/logos/mysql.png",
+    "img": "../src/assets/img/mysql.png",
     "tech": "SQL",
     "ex": "Intermidiate"
   },
   {
     "id": 11,
-    "img": "../src/assets/logos/py.png",
+    "img": "../src/assets/img/py.png",
     "tech": "Python",
     "ex": "Intermidiate"
   },
 
   {
     "id": 12,
-    "img": "../src/assets/logos/csharp.png",
+    "img": "../src/assets/img/csharp.png",
     "tech": "C#",
     "ex": "Intermidiate"
   },
   {
     "id": 13,
-    "img": "../src/assets/logos/C++.png",
+    "img": "../src/assets/img/C++.png",
     "tech": "C++",
     "ex": "Intermidiate"
   },
   {
     "id": 14,
-    "img": "../src/assets/logos/unrealengine.png",
+    "img": "../src/assets/img/unrealengine.png",
     "tech": "UE5",
     "ex": "Intermidiate"
   },

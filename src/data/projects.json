@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "/src/assets/projects/chess.gif",
+    "img": "../src/assets/img/chess.gif",
     "name": "project kasparov",
     "desc": "A chess ",
     "github": "https://github.com/ZheerBarzan/project_kasparov.git",
@@ -18,7 +18,7 @@
   },
   {
     "id": 2,
-    "img": "/src/assets/projects/jordan.gif",
+    "img": "../src/assets/img/jordan.gif",
     "name": "project jordan",
     "desc": "A NBA news APP",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",
@@ -39,7 +39,7 @@
   },
   {
     "id": 3,
-    "img": "/src/assets/projects/mineswepper.gif",
+    "img": "../src/assets/img/mineswepper.gif",
     "name": "Mine Sweeper",
     "desc": "A Retro mine Sweeper game",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",
@@ -56,7 +56,7 @@
   },
   {
     "id": 4,
-    "img": "/src/assets/projects/weather.gif",
+    "img": "../src/assets/img/weather.gif",
     "name": "Project_forecast",
     "desc": "a real time weather application",
     "github": "https://github.com/ZheerBarzan/project_jordan.git",

@@ -5,17 +5,8 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './',
-
+  base: '/portfolio/',
   
-  build:{
-      assetsDir: "assets",
-      rollupOptions: {
-        output: {
-          assetFileNames: 'assets/logos/figma.png' // Adjust output path and filename as needed
-        }
-      }
-  },
   plugins: [
     vue(),
   ],

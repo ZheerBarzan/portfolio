@@ -1,6 +1,6 @@
 <script setup>
 import {ref} from "vue"
-import front from "../data/experince.json"
+import front from "../assets/experince.json"
 
 
 

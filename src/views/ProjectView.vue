@@ -1,6 +1,6 @@
 <script setup>
 import {ref} from "vue"
-import project from "../data/projects.json"
+import project from "../assets/projects.json"
 
 
 

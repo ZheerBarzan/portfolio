@@ -1,6 +1,6 @@
 <script setup>
 import {ref} from "vue"
-import project from "../assets/projects.json"
+import project from "../data/projects.json"
 
 
 
@@ -42,11 +42,11 @@ const openLinkToGithub = (link) => {
         
       </div>
       </div>
-      <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#contact'">
+      <img src="/assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#contact'">
 
     </section>
 
 
 </template>
 
-<style src="../assets/main.css"></style>
+<style src="/assets/main.css"></style>

@@ -39,4 +39,4 @@ function toggleMenu() {
     </nav>
 </template>
 
-<style src="../assets/main.css"></style>
+<style src="/assets/main.css"></style>

@@ -1,6 +1,6 @@
 <script setup>
 import {ref} from "vue"
-import front from "../assets/experince.json"
+import front from "../data/experince.json"
 
 
 
@@ -35,10 +35,10 @@ const frontEnd = ref(front)
             </div>
 
         </div>
-        <img src="../assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#projects'">
+        <img src="/assets/img/arrow.png" alt="" class="icon arrow" onclick="location.href='#projects'">
 
     </section>
 
 </template>
 
-<style src="../assets/main.css"></style>
+<style src="/assets/main.css"></style>

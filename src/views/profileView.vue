@@ -2,7 +2,7 @@
 
 <section id="profile">
       <div class="section__pic-container">
-        <img src="../assets/img/y.png" alt="" />
+        <img src="/assets/img/y.png" alt="" />
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>
@@ -21,12 +21,12 @@
         </div>
         <div id="socials-container">
           <img
-            src="../assets/img/linkedin.png"
+            src="/assets/img/linkedin.png"
             class="icon"
             onclick="location.href='https://www.linkedin.com/in/zheer-barzan-80aba5207/' "
           />
           <img
-            src="../assets/img/github.png"
+            src="/assets/img/github.png"
             class="icon"
             onclick="location.href='' "
           />
@@ -36,4 +36,4 @@
 
 </template>
 
-<style src="../assets/main.css"></style>
+<style src="/assets/main.css"></style>
